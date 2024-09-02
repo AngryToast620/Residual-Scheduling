@@ -1,0 +1,10 @@
+**/__pycache__/
+result/
+datasets/
+histogram/
+runs/
+try_myself/
+weight/
+Dockerfile
+package_files.sh
+included_files.tar.gz
